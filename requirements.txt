@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+numpy
+Pillow
+streamlit-image-coordinates
+streamlit-webrtc
+av
